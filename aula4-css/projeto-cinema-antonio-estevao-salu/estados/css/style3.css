@@ -1,0 +1,17 @@
+.hj {
+  
+    color: darkred;
+}
+.am {
+    color:darkblue;
+}
+a {
+    text-decoration: none;
+    color: seagreen;
+}
+p{
+    font-size: 20px;
+}
+body{
+    font-family: Arial;
+}

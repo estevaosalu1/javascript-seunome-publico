@@ -1,0 +1,15 @@
+.botao{
+    display: block; /*apresenta o item em bloco*/
+    margin-top: 20px; /*margem do topo*/
+    text-decoration: none; /*remove o sublinhado*/
+    background: #ffd700; /*cor de fundo*/
+    width: 85px; /*largura*/
+    padding: 5px; /*preenchimento interno*/
+    border: 1px solid #111; /*borda*/
+    border-radius: 2px; /*arredondamento da borda*/
+    text-align: center; /*centraliza o texto*/
+    font-family: Arial, Helvetica, sans-serif; /*tipo de fonte*/
+    color: #111; /*cor do texto*/
+
+
+}

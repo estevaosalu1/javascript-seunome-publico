@@ -1,0 +1,58 @@
+body{
+    background-color: dimgray;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 600px;
+    margin: auto;
+
+}
+header{
+    background-color: white;
+    margin: 8px;
+    padding: 8px;
+    border-radius: 4px;
+}
+nav{
+    background-color: rgb(44, 44, 44);
+    padding: 10px;
+    border-radius: 4px;
+    box-shadow: 1px 1px 1px rgb(0, 0, 0.316);
+
+}
+nav a{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+nav a:hover{
+    text-decoration: underline;
+
+}
+main{
+    background-color: white;
+    margin: 8px;
+    padding: 8px;
+    border-radius: 4px;
+  
+
+}
+article{
+    background-color: lightgrey;
+    padding: 8px;
+    border-radius: 4px;
+}
+aside{
+    background-color: rgb(140, 140, 140);
+    padding-left: 8px;
+    border-radius: 1px;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+footer p{
+    padding: 4px;
+}
